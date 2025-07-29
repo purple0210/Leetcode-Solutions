@@ -1,4 +1,4 @@
-# 🧠 LeetCode Solutions by purple0210
+# 🧠 LeetCode Solutions 
 
 Welcome to my LeetCode solutions repository! This space is a collection of problems I'm currently solving while practicing data structures and algorithms, primarily in Python.
 
